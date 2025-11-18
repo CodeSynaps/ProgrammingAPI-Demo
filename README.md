@@ -30,9 +30,6 @@
 3. Projeyi çalıştırın, API endpoint’leri `http://localhost:[port]/api/[controller]` üzerinden erişilebilir.
 4. API Key kullanarak `Users` endpoint’lerine erişebilirsiniz.
 
-## ⚠️ Notlar
-
 - Bu proje **sadece demo** amaçlıdır, güvenlik veya performans optimizasyonu içermez.
-- EDMX dosyası repo’ya dahil edilebilir. GitHub açısından sorun çıkarmaz; sadece dosya boyutu büyük olabilir ve merge / branch yönetimi karmaşıklaşabilir.
-- Eğer contribution grafiğinde görünmesini istemiyorsan, private repo tercih edebilirsin.
+
 
